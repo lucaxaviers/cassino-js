@@ -1,20 +1,17 @@
-# 🎰 Cassino do Xaxa - Caça-níquel Educativo
+# cassino-js
 
-Acesse o jogo online: [CLIQUE AQUI](https://lucaxaviers.github.io/cassino-2.0/)
-
-Um **jogo de caça-níquel online** feito com **HTML, CSS e JavaScript**.  
-Totalmente educativo e para diversão: não paga prêmios reais, mas permite experimentar mecânicas de cassino de forma segura.
+🎲 Caça-níquel educativo online (HTML, CSS e JS Vanilla) focando em manipulação dinâmica do DOM.
 
 ---
 
-## 🛠 Funcionalidades
+## 🚀 Sobre o Projeto
+Um projeto focado no mercado, desenvolvido com atenção a detalhes de UI/UX, usabilidade e performance. O design e a estrutura foram pensados para resolver problemas reais e oferecer uma interface polida aos usuários.
 
-- Saldo inicial de **100 créditos**  
-- Cada jogada custa **10 créditos**  
-- Ganha **50 créditos** ao acertar os 3 símbolos iguais  
-- Animação das roletas com emojis 🍒🍋🍉⭐7️⃣  
-- Mensagens de resultado: vitória, quase vitória ou derrota  
-- Responsivo para desktop e mobile  
-- QR code para doações via Pix (opcional)  
+## 🛠️ Tecnologias Utilizadas
+- **Desenvolvimento:** Ferramentas e linguagens modernas adequadas ao ecossistema do projeto.
+- **Design & Performance:** Foco em carregamento rápido e interações dinâmicas.
 
 ---
+
+> **Desenvolvido por Lucas Xavier.**  
+> *Transformando ideias em software escalável e de alto impacto visual.*
